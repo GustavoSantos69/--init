@@ -1,3 +1,5 @@
+#LOOPING#
+
 nome = str(input('Digite seu nome: '))
 materia =  str(input('Digite sua matéria: '))
 l = 0
